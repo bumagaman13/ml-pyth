@@ -10,7 +10,7 @@ configuration:
       "BSD-3-Clause",
       "BSD-2-Clause",
       "ISC",
-      "MPL-2.0",
+      "MPL-2.1",
       "LGPL-2.1"
     ]
   markdown_header_file: "config/header.md"
